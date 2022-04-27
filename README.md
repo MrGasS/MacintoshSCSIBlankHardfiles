@@ -4,5 +4,5 @@ Change the extension and rename the hardfile accordingly to the BlueSCSI or RaSC
 
 pce-macplus = image formatted with pce-macplus emulator.  
 softmac = image formatted with SoftMac emulator.  
-bluescsiapr22 = image formatted with a BlueSCSI on April 2022 firmware.  
+bluescsi = image formatted with a BlueSCSI.  
 scsi2sd = SD card formatted with a real Macintosh and a SCSI2SD, then imaged with DD on Debian.  
